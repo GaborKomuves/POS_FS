@@ -19,27 +19,22 @@ POS_FS is a full-stack Point of Sale (POS) application designed to streamline sa
 
 ### Technologies Used
 #### Backend:
-- Java (Spring Boot)
-- PostgreSQL (Database)
-- JPA/Hibernate (ORM)
-- RESTful API development
+- Java (JavaFx)
+- MySQL (Database)
+
 
 #### Frontend:
-- HTML, CSS, JavaScript
-- React.js (or specify another framework if used)
+-Scene Builder
 
 #### Deployment & Tools:
 - NetBeans IDE
-- IntelliJ IDEA / VS Code
-- Maven (for dependency management)
-- Docker (optional, if used)
+
 
 ### Installation & Setup
 #### Prerequisites:
 - Java 17+
-- PostgreSQL installed and running
-- Node.js & npm (for frontend)
-- Maven (for backend dependencies)
+- MySQL installed and running
+- NetBeans
 
 #### Backend Setup:
 ```sh
